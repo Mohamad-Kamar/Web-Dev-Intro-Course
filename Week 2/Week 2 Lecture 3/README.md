@@ -51,7 +51,32 @@ Dive deeper into HTML, covering forms, input elements, and semantic HTML. Introd
      - Task: Create a form that includes text inputs, radio buttons, checkboxes, and a submit button.
      - Students will create a form for a mock user registration page.
 
-3. **Semantic HTML (30 minutes)**
+3. **HTML Tables (30 minutes)**
+   - **Introduction to Tables:**
+     - Purpose of tables in web development for displaying data.
+     - Basic structure:
+       ```html
+       <table>
+         <tr>
+           <th>Header 1</th>
+           <th>Header 2</th>
+         </tr>
+         <tr>
+           <td>Data 1</td>
+           <td>Data 2</td>
+         </tr>
+       </table>
+       ```
+   - **Table Elements:**
+     - `<table>`, `<tr>`, `<th>`, `<td>`, `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`
+   - **Table Attributes and Styles:**
+     - Attributes: `colspan`, `rowspan`, etc.
+     - Styling tables with CSS (borders, padding, alignment)
+   - **Exercise:**
+     - Task: Create a table to display a schedule or data list.
+     - Students will design a table that includes headers, rows, and data cells.
+
+4. **Semantic HTML (30 minutes)**
    - **What is Semantic HTML?**
      - Definition and importance of semantic HTML.
      - Enhancing accessibility and SEO.
