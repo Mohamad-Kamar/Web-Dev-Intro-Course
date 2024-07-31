@@ -1,0 +1,41 @@
+p {
+    background-color: blue;
+    color: red;
+  }
+
+  h2 {
+    background-color: blueviolet;
+  }
+  footer {
+    background-color: brown;
+  }
+
+  input {
+    background-color: blueviolet;
+  }
+
+  .mohamad {
+    background-color: blanchedalmond;
+  }
+
+  .ali{
+    background-color: rgb(160, 236, 154);
+  }
+
+
+.innerDiv {
+    background-color: rgb(52, 6, 24);
+    width: 200px;
+    height: 40px;
+    border: 10px dotted cyan;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.parentDiv {
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+}
