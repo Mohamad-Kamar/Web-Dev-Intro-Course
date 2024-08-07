@@ -1,0 +1,23 @@
+.barra {
+    display: flex;
+    justify-content: center;
+    background-color: DodgerBlue;
+  }
+  
+  .jowwa {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    width: 50px;
+    height: 20px;
+    font-size: 30px;
+  }
+
+  @media (max-width: 600px){
+    .barra{
+        flex-direction: column;
+    }
+    .jowwa{
+        background-color: black;
+    }
+  }
