@@ -1,4 +1,4 @@
-### **Action Plan for Week 5, Lecture 8: JavaScript Basics**
+### **Action Plan for Week 5, Lecture 8 and 9: JavaScript Basics**
 
 **Objective:** Introduce students to the fundamentals of JavaScript, covering syntax, basic programming constructs, operators, expressions, conditionals, and DOM manipulation. By the end of this lecture, students should be able to write basic JavaScript programs and manipulate HTML elements using the DOM.
 
